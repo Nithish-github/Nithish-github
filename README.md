@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nithish Kumar</h1>
 <h3 align="center">AI Engineer | Computer Vision & Deep Learning Enthusiast</h3>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50" style="margin-right: 10px;"/>
-  <a href="https://leetcode.com/u/nithu_08/" target="_blank">LeetCode Profile</a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -31,17 +26,18 @@
 
 ### 🔗 Connect with Me  
 
-<p align="left" style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://leetcode.com/u/nithu_08/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+<p align="left" style="display: flex; align-items: center; gap: 30px; margin-top: 20px; margin-bottom: 20px;">
+  <a href="https://leetcode.com/u/nithu_08/" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="60" height="60" style="margin-right: 20px;"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile-link" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="www.linkedin.com/in/innov-nithish" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="60" height="60" style="margin-right: 20px;"/>
   </a>
-  <a href="https://github.com/your-github-profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/Nithish-github" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="60" height="60" style="margin-right: 20px;"/>
   </a>
 </p>
+
 
 ---
 
@@ -63,7 +59,8 @@
 - Plug-and-play architecture for **image classification**, **object detection**, and **segmentation**.  
 - User-friendly interface enabling non-programmers to create **AI models** in just a few clicks.  
 
-#### Check out [MLDrop](#) (coming soon!) for more updates!  
+#### Check out [MLDrop](https://ml-drop.vercel.app/) for more updates!  
 <p align="center">
   <img src="https://via.placeholder.com/800x400?text=Project+Showcase+Coming+Soon" alt="Project Showcase Coming Soon"/>
 </p>
+
